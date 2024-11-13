@@ -21,4 +21,4 @@ This project consists of a simple survey form created with HTML and styled using
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/survey-form.git
+   git clone https://github.com/kuuroomie/survey.git
